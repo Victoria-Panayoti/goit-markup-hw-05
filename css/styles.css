@@ -477,7 +477,7 @@ body {
   color: var(--text-white);
   background-color: rgba(33, 150, 243, 0.9);
 }
-.gallery-card:hover .gallery-card-overlay {
+.gallery-card-link:hover .gallery-card-overlay {
   transform: translateY(0);
 }
 .gallery-card-link:hover,
